@@ -1,0 +1,81 @@
+[
+  {
+    "title": "\u753b\u5e031",
+    "topic": {
+      "title": "\u5f00\u59cb",
+      "topics": [
+        {
+          "title": "\u89e3\u91ca\u6570\u636e\u96c6",
+          "topics": [
+            {
+              "title": "\u6570\u636e\u964d\u7ef4",
+              "topics": [
+                {
+                  "title": "\u7ebf\u6027\u7279\u5f81",
+                  "topics": [
+                    {
+                      "title": "pca",
+                      "id": "49442d1fe2e5"
+                    }
+                  ],
+                  "id": "c51fb878c630"
+                },
+                {
+                  "title": "\u975e\u7ebf\u6027\u7279\u5f81",
+                  "topics": [
+                    {
+                      "title": "t-sne",
+                      "id": "723420f8a909"
+                    }
+                  ],
+                  "id": "41b8aee91d11"
+                }
+              ],
+              "id": "53d77e6f0954"
+            },
+            {
+              "title": "\u6570\u636e\u805a\u7c7b",
+              "topics": [
+                {
+                  "title": "k-means",
+                  "id": "273adeb5e83b"
+                }
+              ],
+              "id": "18598a262fbb"
+            }
+          ],
+          "id": "3a1cdf006c1c"
+        },
+        {
+          "title": "\u89e3\u91caML\u6a21\u578b",
+          "topics": [
+            {
+              "title": "\u6a21\u578b\u672c\u8eab\u53ef\u89e3\u91ca",
+              "topics": [
+                {
+                  "title": "model-self",
+                  "id": "509d8dc2cd53"
+                }
+              ],
+              "id": "a18815c6c3b1"
+            },
+            {
+              "title": "\u6a21\u578b\u672c\u8eab\u4e0d\u53ef\u89e3\u91ca",
+              "topics": [
+                {
+                  "title": "TBD",
+                  "id": "47e6aa611528"
+                }
+              ],
+              "id": "ad4dfc9d08cd"
+            }
+          ],
+          "id": "0ba98f2816d6"
+        }
+      ],
+      "id": "6346b741e4b035d3b0726c0f"
+    },
+    "structure": "org.xmind.ui.map.unbalanced",
+    "id": "6346b741e4b035d3b0726c10"
+  }
+]

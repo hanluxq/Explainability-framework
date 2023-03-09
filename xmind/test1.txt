@@ -1,0 +1,16 @@
+[{'title': '画布1', 'topic': 
+	{'title': '开始', 'topics': 
+		[{'title': '解释数据集', 'topics':
+			 [{'title': '数据降维', 'topics':
+				 [{'title': '线性特征', 'topics': 
+					[{'title': 'pca', 'id': '49442d1fe2e5'}], 'id': 'c51fb878c630'},
+				  {'title': '非线性特征', 'topics': 
+					[{'title': 't-sne', 'id': '723420f8a909'}], 'id': '41b8aee91d11'}], 'id': '53d77e6f0954'},
+			  {'title': '数据聚类', 'topics': 
+				 [{'title': 'k-means', 'id': '273adeb5e83b'}], 'id': '18598a262fbb'}], 'id': '3a1cdf006c1c'}, 
+		 {'title': '解释ML模型', 'topics': 
+			[{'title': '模型本身可解释', 'topics': 
+				[{'title': 'model-self', 'id': '509d8dc2cd53'}], 'id': 'a18815c6c3b1'}, 
+			 {'title': '模型本身不可解释', 'topics': 
+				[{'title': 'TBD', 'id': '47e6aa611528'}], 'id': 'ad4dfc9d08cd'}], 'id': '0ba98f2816d6'}], 'id': '6346b741e4b035d3b0726c0f'}, 
+	'structure': 'org.xmind.ui.map.unbalanced', 'id': '6346b741e4b035d3b0726c10'}]
